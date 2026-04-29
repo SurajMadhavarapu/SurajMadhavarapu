@@ -140,6 +140,7 @@
     <td width="50%" valign="top">
       <h4>📜 Certifications</h4>
       <ul>
+        <li>🎓 <strong>Short-term Course on Artificial Intelligence</strong> — IIT Kanpur <em>(Oct 2024)</em></li>
         <li>🤖 <strong>AI Tools & ChatGPT Workshop</strong> — be10x <em>(Nov 2024)</em></li>
         <li>🐳 <strong>Fundamentals of Docker & Kubernetes</strong> — Scaler Masterclass <em>(Apr 2026)</em></li>
         <li>💻 <strong>Introduction to C</strong> — Sololearn <em>(Dec 2023)</em></li>
